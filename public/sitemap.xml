@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://pelep-construction.be/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://pelep-construction.be/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/about?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/about?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/about?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/about" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Gallery Page -->
+  <url>
+    <loc>https://pelep-construction.be/gallery</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/gallery" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/gallery?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/gallery?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/gallery?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/gallery" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- German versions -->
+  <url>
+    <loc>https://pelep-construction.be/?lang=de</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pelep-construction.be/about?lang=de</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/about?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/about?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/about?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/about" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://pelep-construction.be/gallery?lang=de</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/gallery" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/gallery?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/gallery?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/gallery?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/gallery" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- French versions -->
+  <url>
+    <loc>https://pelep-construction.be/?lang=fr</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://pelep-construction.be/about?lang=fr</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/about?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/about?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/about?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/about" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://pelep-construction.be/gallery?lang=fr</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/gallery" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/gallery?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/gallery?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/gallery?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/gallery" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Dutch versions -->
+  <url>
+    <loc>https://pelep-construction.be/?lang=nl</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://pelep-construction.be/about?lang=nl</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/about?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/about?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/about?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/about" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://pelep-construction.be/gallery?lang=nl</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pelep-construction.be/gallery" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://pelep-construction.be/gallery?lang=de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pelep-construction.be/gallery?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pelep-construction.be/gallery?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pelep-construction.be/gallery" />
+    <lastmod>2025-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,35 @@
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Allow: /
+Crawl-delay: 2
+
+# Sitemap
+Sitemap: https://pelep-construction.be/sitemap.xml
+
+# German content indexing
+Allow: /?lang=de
+Allow: /about?lang=de
+Allow: /gallery?lang=de
+
+# French content indexing
+Allow: /?lang=fr
+Allow: /about?lang=fr
+Allow: /gallery?lang=fr
+
+# Dutch content indexing
+Allow: /?lang=nl
+Allow: /about?lang=nl
+Allow: /gallery?lang=nl
