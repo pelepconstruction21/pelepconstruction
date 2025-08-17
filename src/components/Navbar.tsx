@@ -14,6 +14,7 @@ const Navbar = () => {
 
   const navItems = [
     { href: "/", label: t('nav.home'), isRoute: true },
+    { href: "/about", label: t('nav.about'), isRoute: true },
     { href: "/#services", label: t('nav.services'), isRoute: false },
     { href: "/gallery", label: t('nav.gallery'), isRoute: true },
     { href: "/#contact", label: t('nav.contact'), isRoute: false },
